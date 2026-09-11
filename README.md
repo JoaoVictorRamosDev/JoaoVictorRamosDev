@@ -1,92 +1,133 @@
 <div align="center">
-  <h1>Olá, eu sou João Victor 👋</h1>
-  <h3>Analista de Dados em desenvolvimento | Tecnologia | Business Intelligence</h3>
 
-  <a href="https://www.linkedin.com/in/joao-ramos01/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+# 👋 Olá, eu sou João Victor
+
+### 📊 Analista de Dados em desenvolvimento | 💻 Tecnologia | 📈 Business Intelligence
+
+<a href="SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-### 👨‍💻 Sobre mim
+## 🧑‍💻 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas**, com experiência em **suporte técnico e infraestrutura de TI**, e atualmente direciono minha carreira para **Análise de Dados e Business Intelligence**.
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**, com experiência em **suporte técnico e infraestrutura de TI**.
 
-Minha experiência em TI me proporcionou uma visão prática sobre tecnologia, processos e resolução de problemas. Atuei com manutenção de computadores, infraestrutura de redes, suporte a usuários e continuidade operacional.
+📊 Atualmente direciono minha carreira para **Análise de Dados e Business Intelligence**, desenvolvendo conhecimentos em Python, SQL, Power BI e visualização de dados.
 
-Também participei da criação de **relatórios e dashboards para acompanhamento de ativos e indicadores de TI**, utilizando dados para gerar informações que apoiavam decisões e melhorias nos processos internos.
+🚀 No **Instituto PROA**, estou fortalecendo minha base em **lógica de programação**, atualmente utilizando JavaScript e VisualG, com Python como próxima etapa.
 
-### 🚀 Minha jornada atual
+🎨 Também possuo experiência em projetos acadêmicos e pessoais com **HTML, CSS e UX/UI no Figma**.
 
-Atualmente participo do **Instituto PROA**, onde venho desenvolvendo minha base em programação, lógica e resolução de problemas.
+---
 
-Neste momento, estou trabalhando principalmente com **JavaScript e VisualG** para fortalecer minha lógica de programação. Como próxima etapa, seguirei aprofundando meus conhecimentos em **Python**, direcionando esse aprendizado para Análise de Dados.
+## 🛠️ Tecnologias & Ferramentas
 
-Durante essa jornada, também desenvolvi projetos utilizando **HTML e CSS** e realizei projetos de **UX/UI no Figma**, ampliando minha visão sobre desenvolvimento, experiência do usuário e construção de soluções digitais.
+### 📊 Dados & Business Intelligence
 
-### 🛠️ Tecnologias e ferramentas
+<div align="left">
 
-**Dados & BI**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+<img width="15"/>
 
-* Power BI
-* Excel
-* Google Looker Studio
-* SQL
-* Python — em desenvolvimento
-* Google Cloud
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="SQL"/>
+<img width="15"/>
 
-**Programação & Desenvolvimento**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" title="Google Cloud"/>
+<img width="15"/>
 
-* JavaScript
-* VisualG
-* HTML5
-* CSS3
+</div>
 
-**Design**
+<br>
 
-* Figma
-* UX/UI
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
-**Ferramentas**
+### 💻 Desenvolvimento
 
-* Git
-* GitHub
-* VS Code
+<div align="left">
 
-### 📊 Projetos
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+<img width="15"/>
 
-Estou construindo meu portfólio de forma progressiva, documentando projetos e exercícios desenvolvidos durante minha formação.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+<img width="15"/>
 
-🔹 **Lógica de Programação**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+<img width="15"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+<img width="15"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+<img width="15"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+
+</div>
+
+### 🎨 Design
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
+
+</div>
+
+---
+
+## 🚀 Projetos
+
+📌 **Lógica de Programação**
 Exercícios desenvolvidos com VisualG e JavaScript durante o Instituto PROA.
 
-🔹 **Projetos Web**
-Projetos utilizando HTML e CSS, aplicando conceitos de estrutura, semântica e estilização.
+📊 **Análise de Dados**
+Projetos utilizando Power BI, SQL e Python para exploração, tratamento e visualização de dados.
 
-🔹 **UX/UI Design**
-Projetos desenvolvidos no Figma, explorando conceitos de interface e experiência do usuário.
+🌐 **Desenvolvimento Web**
+Projetos utilizando HTML e CSS.
 
-🔹 **Análise de Dados**
-Projetos envolvendo Power BI, SQL, Python e visualização de dados, conforme avanço na minha formação.
+🎨 **UX/UI**
+Projetos desenvolvidos no Figma, explorando interfaces e experiência do usuário.
 
-### 📚 Atualmente estudando
+---
 
-* Lógica de programação
-* JavaScript
-* Python
-* SQL
-* Power BI
-* Análise de Dados
-* Business Intelligence
-* Git e GitHub
+## 📚 Atualmente estudando
 
-### 🎯 Objetivo
+```text
+Lógica de Programação
+        ↓
+    JavaScript
+        ↓
+      Python
+        ↓
+       SQL
+        ↓
+ Power BI / BI
+        ↓
+Análise de Dados
+```
 
-Aplicar tecnologia e análise de dados para **transformar informações em insights**, apoiar decisões, promover melhorias contínuas e gerar valor para o negócio.
+---
+
+## 📈 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
 
 ---
 
 <div align="center">
-  <i>Construindo conhecimento, projeto por projeto.</i>
+
+### 🎯 Transformando dados em informações que apoiam decisões.
+
 </div>
