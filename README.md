@@ -27,7 +27,7 @@
 
 📊 Atualmente, direciono minha carreira para o ecossistema de **Análise de Dados e Business Intelligence**, focando em extrair valor de dados brutos por meio de análise crítica, tratamento eficiente e visualizações impactantes.
 
-🚀 No **Instituto PROA**, venho aprimorando minha lógica de programação e fundamentos técnicos, passando por JavaScript, VisualG e preparando-me para avançar fortemente em Python. Adicionalmente, possuo familiaridade com desenvolvimento web e design de interfaces (HTML, CSS e Figma).
+🚀 No **Instituto PROA**, desenvolvo minha base em programação e desenvolvimento **Full Stack**, trabalhando atualmente com **JavaScript e VisualG** e avançando para **Python, MySQL e Flask**, além de HTML e CSS.
 
 ---
 
