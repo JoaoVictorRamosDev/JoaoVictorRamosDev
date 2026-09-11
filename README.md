@@ -33,16 +33,6 @@
 
   ---
 
-## 👨‍💻 Sobre Mim
-
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**, possuo sólida bagagem prévia em suporte técnico e infraestrutura de TI. 
-
-📊 Atualmente, direciono minha carreira para o ecossistema de **Análise de Dados e Business Intelligence**, focando em extrair valor de dados brutos por meio de análise crítica, tratamento eficiente e visualizações impactantes.
-
-🚀 No **Instituto PROA**, desenvolvo minha base em programação e desenvolvimento **Full Stack**, trabalhando atualmente com **JavaScript e VisualG** e avançando para **Python, MySQL e Flask**, além de HTML e CSS.
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 Como estudante, estas são as tecnologias com as quais tenho contato e venho aprofundando meus conhecimentos por meio de estudos e projetos práticos.
@@ -81,6 +71,16 @@ Como estudante, estas são as tecnologias com as quais tenho contato e venho apr
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
+
+## 👨‍💻 Sobre Mim
+
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**, possuo sólida bagagem prévia em suporte técnico e infraestrutura de TI. 
+
+📊 Atualmente, direciono minha carreira para o ecossistema de **Análise de Dados e Business Intelligence**, focando em extrair valor de dados brutos por meio de análise crítica, tratamento eficiente e visualizações impactantes.
+
+🚀 No **Instituto PROA**, desenvolvo minha base em programação e desenvolvimento **Full Stack**, trabalhando atualmente com **JavaScript e VisualG** e avançando para **Python, MySQL e Flask**, além de HTML e CSS.
+
+---
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
