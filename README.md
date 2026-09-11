@@ -21,6 +21,18 @@
 
 ---
 
+## 🚀 Portfólio de Projetos
+
+* **📊 Análise de Dados & Business Intelligence:** Projetos de exploração, tratamento, visualização e análise de dados, utilizando Power BI, SQL, Excel e Python à medida que avanço na formação.
+
+* **💻 Desenvolvimento Full Stack:** Projetos e exercícios desenvolvidos durante o Instituto PROA, explorando lógica de programação, JavaScript, Python, Flask, MySQL, HTML e CSS.
+
+* **🧠 Lógica de Programação:** Exercícios desenvolvidos em VisualG e JavaScript para fortalecer raciocínio lógico, resolução de problemas e fundamentos de programação.
+
+* **🌐 Desenvolvimento Web & UX/UI:** Projetos utilizando HTML, CSS e Figma, explorando estrutura de páginas, interfaces, prototipação e experiência do usuário.
+
+  ---
+
 ## 👨‍💻 Sobre Mim
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**, possuo sólida bagagem prévia em suporte técnico e infraestrutura de TI. 
@@ -81,17 +93,6 @@ Como estudante, estas são as tecnologias com as quais tenho contato e venho apr
 
 
 ---
-
-## 🚀 Portfólio de Projetos
-
-* **📊 Análise de Dados & Business Intelligence:** Projetos de exploração, tratamento, visualização e análise de dados, utilizando Power BI, SQL, Excel e Python à medida que avanço na formação.
-
-* **💻 Desenvolvimento Full Stack:** Projetos e exercícios desenvolvidos durante o Instituto PROA, explorando lógica de programação, JavaScript, Python, Flask, MySQL, HTML e CSS.
-
-* **🧠 Lógica de Programação:** Exercícios desenvolvidos em VisualG e JavaScript para fortalecer raciocínio lógico, resolução de problemas e fundamentos de programação.
-
-* **🌐 Desenvolvimento Web & UX/UI:** Projetos utilizando HTML, CSS e Figma, explorando estrutura de páginas, interfaces, prototipação e experiência do usuário.
-
 ---
 
 ### 📊 GitHub Stats
