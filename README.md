@@ -1,182 +1,56 @@
 <div align="center">
 
-# 👋 Olá, eu sou João Victor
+# 👋 Olá, eu sou o João Victor!
 
-### 📊 Analista de Dados em desenvolvimento | 💻 Tecnologia | 📈 Business Intelligence
+### 📊 Analista de Dados em Desenvolvimento | 💻 Tecnologia | 📈 Business Intelligence
 
-<a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN_AQUI)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](SEU_GITHUB_AQUI)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 👨‍💻 Sobre Mim
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**, com experiência em **suporte técnico e infraestrutura de TI**.
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**, possuo sólida bagagem prévia em suporte técnico e infraestrutura de TI. 
 
-📊 Atualmente direciono minha carreira para **Análise de Dados e Business Intelligence**, desenvolvendo conhecimentos em análise, visualização e interpretação de dados.
+📊 Atualmente, direciono minha carreira para o ecossistema de **Análise de Dados e Business Intelligence**, focando em extrair valor de dados brutos por meio de análise crítica, tratamento eficiente e visualizações impactantes.
 
-🚀 No **Instituto PROA**, estou fortalecendo minha base em **lógica de programação**, atualmente utilizando **JavaScript e VisualG**, com **Python** como próxima etapa.
-
-🎨 Também desenvolvi projetos utilizando **HTML, CSS e Figma**, explorando desenvolvimento web e UX/UI.
+🚀 No **Instituto PROA**, venho aprimorando minha lógica de programação e fundamentos técnicos, passando por JavaScript, VisualG e preparando-me para avançar fortemente em Python. Adicionalmente, possho familiaridade com desenvolvimento web e design de interfaces (HTML, CSS e Figma).
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 📊 Dados & Business Intelligence
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-  width="45" title="Python" />
-
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-  width="45" title="SQL / MySQL" />
-
-<img width="12"/>
-
-<img src="https://cdn.simpleicons.org/powerbi/F2C811"
-  width="45" title="Power BI" />
-
-<img width="12"/>
-
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346"
-  width="45" title="Microsoft Excel" />
-
-<img width="12"/>
-
-<img src="https://cdn.simpleicons.org/looker/4285F4"
-  width="45" title="Google Looker Studio" />
-
-<img width="12"/>
-
-<img src="https://cdn.simpleicons.org/googlecloud/4285F4"
-  width="45" title="Google Cloud" />
-
-</div>
-
-### 💻 Desenvolvimento
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-  width="45" title="JavaScript" />
-
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-  width="45" title="HTML5" />
-
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-  width="45" title="CSS3" />
-
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-  width="45" title="Git" />
-
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-  width="45" title="GitHub" />
-
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-  width="45" title="VS Code" />
-
-</div>
-
-### 🎨 UX/UI & Design
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-  width="45" title="Figma" />
-
-</div>
-
----
-
-## 🚀 Projetos
-
-### 📊 Análise de Dados
-
-Projetos voltados para exploração, tratamento, análise e visualização de dados utilizando **Power BI, SQL e Python**.
-
-### 🧠 Lógica de Programação
-
-Exercícios desenvolvidos durante o **Instituto PROA**, utilizando **VisualG e JavaScript** para desenvolver raciocínio lógico e fundamentos de programação.
-
-### 🌐 Desenvolvimento Web
-
-Projetos utilizando **HTML e CSS**, aplicando conceitos de estrutura, semântica, estilização e organização de páginas.
-
-### 🎨 UX/UI
-
-Projetos desenvolvidos no **Figma**, explorando conceitos de interface, experiência do usuário e prototipação.
-
----
-
-## 📚 Atualmente estudando
-
 <div align="center">
 
-**Lógica de Programação**
-
-⬇️
-
-**JavaScript**
-
-⬇️
-
-**Python**
-
-⬇️
-
-**SQL**
-
-⬇️
-
-**Power BI & Business Intelligence**
-
-⬇️
-
-**Análise de Dados**
+| **Dados & BI** | **Desenvolvimento** | **UX/UI & Design** |
+| :---: | :---: | :---: |
+| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) | ![VisualG](https://img.shields.io/badge/VisualG-00599C?style=flat&logo=code&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Portfólio de Projetos
 
-<div align="center">
-
-<img height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
+* **📊 Análise de Dados & BI:** Dashboards e relatórios focados em exploração, tratamento, análise descritiva e diagnóstica utilizando Power BI, SQL e Python.
+* **🧠 Lógica de Programação:** Exercícios e scripts desenvolvidos durante o Instituto PROA em VisualG e JavaScript para consolidação do raciocínio lógico.
+* **🌐 Desenvolvimento Web:** Páginas estruturadas aplicando conceitos de semântica, organização e estilização com HTML e CSS.
+* **🎨 UX/UI Design:** Wireframes e protótipos de alta fidelidade desenvolvidos no Figma com foco na experiência do usuário.
 
 ---
 
-## 🎯 Objetivo
+## 📚 Trilha de Aprendizado Atual
 
-Transformar **dados em informações**, informações em **insights** e insights em **decisões que gerem valor para o negócio**.
-
----
-
-<div align="center">
-
-### 🚀 Construindo conhecimento, projeto por projeto.
-
-</div>
+```mermaid
+graph LR
+    A[Lógica de Programação] --> B[JavaScript]
+    B --> C[Python]
+    C --> D[SQL]
+    D --> E[Power BI & BI]
+    E --> F[Análise de Dados]
