@@ -39,8 +39,6 @@ Como estudante, estas são as tecnologias com as quais tenho contato e estou apr
 
 <p align="left">
   <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 ### 💻 Linguagens e Ferramentas
