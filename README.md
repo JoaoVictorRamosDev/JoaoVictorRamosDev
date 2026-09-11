@@ -33,15 +33,15 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Como estudante, estas são as tecnologias com as quais tenho contato e estou aprofundando meus conhecimentos por meio de estudos e projetos práticos:
+Como estudante, estas são as tecnologias com as quais tenho contato e venho aprofundando meus conhecimentos por meio de estudos e projetos práticos.
 
-### 🗄️ Bancos de Dados e Análise
+### 📊 Dados & Business Intelligence
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOOKER_STUDIO-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ### 💻 Desenvolvimento Full Stack
@@ -54,12 +54,12 @@ Como estudante, estas são as tecnologias com as quais tenho contato e estou apr
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🛠️ Ferramentas
+### 🔧 Ferramentas & Design
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
@@ -67,9 +67,8 @@ Como estudante, estas são as tecnologias com as quais tenho contato e estou apr
 
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
-
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
