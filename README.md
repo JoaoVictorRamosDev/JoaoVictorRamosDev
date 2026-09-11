@@ -1,9 +1,24 @@
-<h1 align="center">Hi 👋, I'm João Victor Ramos</h1>
-<h3 align="center">A passionate Data Analitics from Brazil</h3>
+# Olá, eu sou João Victor 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🎓 Formado em Análise e Desenvolvimento de Sistemas
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+📊 Em transição para Análise de Dados
+
+### 🛠️ Tecnologias
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Google Looker Studio
+
+### 📂 Projetos
+
+- Análise de dados de E-commerce
+- Dashboards em Power BI
+- Projetos em Python
+- Projetos SQL
+
+### 📈 Atualmente estudando
+
+Análise de Dados, Python, SQL e Business Intelligence.
