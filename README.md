@@ -94,6 +94,18 @@ Como estudante, estas são as tecnologias com as quais tenho contato e venho apr
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucMNS&theme=gotham" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucMNS&theme=gotham" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucMNS&theme=gotham" width="33%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucMNS&theme=gotham" width="100%" />
+</p>
+
 ## 📚 Trilha de Aprendizado
 
 ### 🚀 Formação Full Stack — Instituto PROA
