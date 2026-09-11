@@ -2,7 +2,7 @@
   <h1>Olá, eu sou João Victor 👋</h1>
   <h3>Analista de Dados em desenvolvimento | Tecnologia | Business Intelligence</h3>
 
-  <a href="(https://www.linkedin.com/in/joao-ramos01/)">
+  <a href="https://www.linkedin.com/in/joao-ramos01/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
