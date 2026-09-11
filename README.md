@@ -44,7 +44,7 @@ Como estudante, estas são as tecnologias com as quais tenho contato e estou apr
   <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-### ☁️ Infraestrutura e Cloud
+### ☁️ Infraestrutura
 
 <p align="left">
   <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
