@@ -84,19 +84,24 @@ Como estudante, estas são as tecnologias com as quais tenho contato e venho apr
 
 ## 🚀 Portfólio de Projetos
 
-* **📊 Análise de Dados & BI:** Dashboards e relatórios focados em exploração, tratamento, análise descritiva e diagnóstica utilizando Power BI, SQL e Python.
-* **🧠 Lógica de Programação:** Exercícios e scripts desenvolvidos durante o Instituto PROA em VisualG e JavaScript para consolidação do raciocínio lógico.
-* **🌐 Desenvolvimento Web:** Páginas estruturadas aplicando conceitos de semântica, organização e estilização com HTML e CSS.
-* **🎨 UX/UI Design:** Wireframes e protótipos de alta fidelidade desenvolvidos no Figma com foco na experiência do usuário.
+* **📊 Análise de Dados & Business Intelligence:** Projetos de exploração, tratamento, visualização e análise de dados, utilizando Power BI, SQL, Excel e Python à medida que avanço na formação.
+
+* **💻 Desenvolvimento Full Stack:** Projetos e exercícios desenvolvidos durante o Instituto PROA, explorando lógica de programação, JavaScript, Python, Flask, MySQL, HTML e CSS.
+
+* **🧠 Lógica de Programação:** Exercícios desenvolvidos em VisualG e JavaScript para fortalecer raciocínio lógico, resolução de problemas e fundamentos de programação.
+
+* **🌐 Desenvolvimento Web & UX/UI:** Projetos utilizando HTML, CSS e Figma, explorando estrutura de páginas, interfaces, prototipação e experiência do usuário.
 
 ---
 
-## 📚 Trilha de Aprendizado Atual
+## 📚 Trilha de Aprendizado
+
+### 🚀 Formação Full Stack — Instituto PROA
 
 ```mermaid
 graph LR
     A[Lógica de Programação] --> B[JavaScript]
     B --> C[Python]
-    C --> D[SQL]
-    D --> E[Power BI & BI]
-    E --> F[Análise de Dados]
+    C --> D[Flask]
+    D --> E[MySQL]
+    E --> F[Desenvolvimento Full Stack]
